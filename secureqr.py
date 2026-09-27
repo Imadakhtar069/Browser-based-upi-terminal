@@ -8,12 +8,11 @@ import time
 
 app = Flask(__name__)
 
-SHOP_NAME = "Yourshopname"
-UPI_ID = "number@upi"
+SHOP_NAME = "Imad Akhtar"
+UPI_ID = "8292746662@axl"
 HOST = "0.0.0.0"
 PORT = 5010
 SESSION_SECONDS = 300
-
 sessions = {}
 
 PAGE = r"""
